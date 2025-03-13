@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#SCRUM-2] Bright Wheel Leads Analysis Plan</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://paulcalvertdesigns.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://paulcalvertdesigns.atlassian.net/browse/SCRUM-1">Brightwheel Assessment</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://paulcalvertdesigns.atlassian.net/browse/SCRUM-1">SCRUM-1</a>)</span>
+                <h3 class="formtitle"><img src="https://paulcalvertdesigns.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [SCRUM-2]&nbsp;<a href="https://paulcalvertdesigns.atlassian.net/browse/SCRUM-2">Bright Wheel Leads Analysis Plan</a>
+            <span class="subText">
+               Created: 13/Mar/25                   &nbsp;Updated: 13/Mar/25
+
+                                                    &nbsp;Resolved: 13/Mar/25
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Done</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Project:</b></td>
+        <td width="80%"><a href="https://paulcalvertdesigns.atlassian.net/secure/BrowseProject.jspa?id=10000">Personal Work Projects</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Components:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Affects versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Fix versions:</b></td>
+            <td>
+                            None
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Parent:</b></td>
+        <td width="80%"><a href="https://paulcalvertdesigns.atlassian.net/browse/SCRUM-1">Brightwheel Assessment</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Type:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Task
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Priority:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Reporter:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="557058:16a77562-aad9-4557-a905-81f3fc472951"
+                id="word_reporter_557058:16a77562-aad9-4557-a905-81f3fc472951"
+                href="https://paulcalvertdesigns.atlassian.net/secure/ViewProfile.jspa?accountId=557058%3A16a77562-aad9-4557-a905-81f3fc472951">
+                    Paul Calvert
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Assignee:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="557058:16a77562-aad9-4557-a905-81f3fc472951"
+                id="word_assignee_557058:16a77562-aad9-4557-a905-81f3fc472951"
+                href="https://paulcalvertdesigns.atlassian.net/secure/ViewProfile.jspa?accountId=557058%3A16a77562-aad9-4557-a905-81f3fc472951">
+                    Paul Calvert
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolution:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Done
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votes:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Labels:</b>
+        </td>
+        <td id="labels-10001-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            None
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Remaining Estimate:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Time Spent:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Original estimate:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Not Specified
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10001-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10001-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Description</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <div class="panel" style="background-color: #deebff;border-width: 1px;"><div class="panelContent" style="background-color: #deebff;">
+<h2><a name="KeyInfo"></a>Key Info</h2>
+
+<p><b>Important Links</b>:[ |https://docs.google.com/spreadsheets/d/10t-5x8xSgNnc8ihr_WevgIAauQMBetKN0ymCUwTIQgE/edit?gid=396556806#gid=396556806][Analytics Engineer Exercise Data|https://docs.google.com/spreadsheets/d/1YkH2J8T2uNjFs7ae3fPWVqkrf2tuQfOkkEQrliYRJv0/edit?gid=0#gid=0]<br/>
+<b>Affected Users</b>: Brightwheel<br/>
+<b>Stakeholders</b>: Jonathan Hendricks, Megan McGuire</p>
+</div></div>
+
+<div class="panel" style="background-color: #e3fcef;border-width: 1px;"><div class="panelContent" style="background-color: #e3fcef;">
+<h2><a name="Problem%26Solution"></a>Problem &amp; Solution</h2>
+
+<p><b>Problem</b>: Limited to 2 hours, I will not be able to complete this exercise in that time<br/>
+<b>Solution</b>: Determine what needs to be done, and prioritize what to do first and what to do later when time allows</p>
+</div></div>
+
+<h2><a name="PlannedSteps%3A"></a>Planned Steps:</h2>
+
+<ul>
+	<li><img class="emoticon" src="/images/icons/emoticons/error.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>(1)</em></b> <b><em>Read through raw data to understand the structures of the data files</em></b>
+	<ul>
+		<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Do they all have the same columns?
+		<ul>
+			<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Are there columns that have different names but are functionally the same?</li>
+		</ul>
+		</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Does it look like the same named columns have the same data types?</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Are there any NULLs that will need be handled?</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> What data here will need to be cleaned?</li>
+	</ul>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/error.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>(2) Stage the 4 different data sources in DBT</em></b>
+	<ul>
+		<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Do not need to actually load it into DBT, but the code should be functional
+		<ul>
+			<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> If tight on time maybe write it in pseudocode?</li>
+		</ul>
+		</li>
+	</ul>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/error.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>(3)</em></b> <b><em>Map the 4 different data sources into one table in DBT</em></b>
+	<ul>
+		<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Probably write this as a UNION?</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <ins><b>OUTPUT IS BRONZE</b></ins></li>
+	</ul>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/error.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>(4) Clean the data</em></b>
+	<ul>
+		<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Address identified dirty data in the first step</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Come up with tests to determine which other columns may need to be cleaned up?</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <ins><b>OUTPUT IS SILVER</b></ins></li>
+	</ul>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/error.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>(5) Transform it into a data model</em></b>
+	<ul>
+		<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Data Model needs the following restrictions:
+		<ul>
+			<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> 1 Row per lead</li>
+			<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> Needs to assist in answering business questions</li>
+		</ul>
+		</li>
+		<li><img class="emoticon" src="/images/icons/emoticons/warning.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <ins><b>OUTPUT IS GOLD</b></ins></li>
+	</ul>
+	</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comments</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10000"><td bgcolor="#f0f0f0">
+            Comment by  
+                                                    
+                
+        
+            <a class="user-hover" rel="557058:16a77562-aad9-4557-a905-81f3fc472951"
+                id="word_commented_557058:16a77562-aad9-4557-a905-81f3fc472951"
+                href="https://paulcalvertdesigns.atlassian.net/secure/ViewProfile.jspa?accountId=557058%3A16a77562-aad9-4557-a905-81f3fc472951">
+                    Paul Calvert
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">13/Mar/25</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10000"><td bgcolor="#ffffff">
+            <p>I outlined the planned steps above, along with questions and my thought process. This is how I am thinking of prioritizing this project.</p>
+
+<ol>
+	<li><img class="emoticon" src="/images/icons/emoticons/check.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>Read through raw data to understand the structures of the data files</em></b>
+	<ol>
+		<li>Will do this for sure. I want to understand roughly what the data looks like, so I know better how to interact with it the remainder with this project</li>
+	</ol>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/error.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>Stage the 4 different data sources in DBT</em></b>
+	<ol>
+		<li>I will postpone this step. I do not want to go through the process of pretending to import this into DBT to continue to work on this. I think that will take more time, and I am not making an actual product out of this</li>
+	</ol>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/check.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>Map the 4 different data sources into one table in DBT</em></b>
+	<ol>
+		<li>This should be pretty quick. I will make the four different sources in the Google doc two different staged datasets in GIT, so I will just have the table structures be what I would have chosen at the end of the second step</li>
+	</ol>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/help_16.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>Clean the Data</em></b>
+	<ol>
+		<li>This I will do a little bit. If I find specific data issues that will need to be cleaned up from the first step, I will write the process to clean those things up. If I have time I might also write test code to identify other suspicious columns</li>
+	</ol>
+	</li>
+	<li><img class="emoticon" src="/images/icons/emoticons/check.png" height="16" width="16" align="absmiddle" alt="" border="0"/> <b><em>Transform it into a data model</em></b>
+	<ol>
+		<li>I definitely want to do this one, and do it in such a way to answer the necessary business questions</li>
+	</ol>
+	</li>
+</ol>
+
+
+
+
+<p>So when I look at the needed steps, I see that I will do number 1, skip 2, do 3, work a little on 4, and move on to 5.</p>
+        </td></tr>
+            </table>
+Generated at Thu Mar 13 05:49:04 GMT 2025 by Paul Calvert using Jira 1001.0.0-SNAPSHOT#100282-rev:24bfd5313459b211bfb3e97324bca5acdd98aa20.
+
+</body>
+</html>
