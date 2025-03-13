@@ -15,7 +15,7 @@ Take the four different lead sources from the Google doc and merge them into a c
 8) Hypthosize what questions or insights could be answered with the data model
 
 # Self-Reflection
-This project was really fun, but BOY DID THE TIME FLY. I felt like I was trucking along really well, and suddently realized the time was gone. While I wish I had more time to show off my coding prowess, I still think I spent my time well. More detailed out in the Trade-Offs section
+This project was really fun, but BOY DID THE TIME FLY. I felt like I was trucking along really well, and suddently realized the time was gone. While I wish I had more time to show off my coding prowess, I still think I spent my time well. More detailed out in the Trade-Offs section. I captured all of my work in JIRA, [linked here](https://paulcalvertdesigns.atlassian.net/browse/SCRUM-1?atlOrigin=eyJpIjoiNzZiNGQ2ZWM3NGViNDE3YThlZmYzZjQ3YWRiZDc2NDciLCJwIjoiaiJ9).
 
 # Trade-Offs
 ## Things I prioritized
